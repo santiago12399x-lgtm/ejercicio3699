@@ -1,12 +1,12 @@
 body {
-  background-color: #e8f4ff;
+  background-color: violet;
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 50px;
 }
 
 .tarjeta {
-  background-color: white;
+  background-color:   violet;
   max-width: 400px;
   margin: auto;
   padding: 30px;
