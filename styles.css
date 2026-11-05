@@ -1,0 +1,30 @@
+body {
+  background-color: #e8f4ff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+.tarjeta {
+  background-color: white;
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+h1 {
+  color: #2367a8;
+}
+
+p {
+  color: #444444;
+}
+
+button {
+  background-color: #2367a8;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+}
