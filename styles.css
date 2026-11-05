@@ -1,12 +1,12 @@
 body {
-  background-color: violet;
+  background-color:   aquamarine;
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 50px;
 }
 
 .tarjeta {
-  background-color:   violet;
+  background-color:    aquamarine;
   max-width: 400px;
   margin: auto;
   padding: 30px;
@@ -22,7 +22,7 @@ p {
 }
 
 button {
-  background-color: #2367a8;
+  background-color: aqua;
   color: white;
   padding: 10px 20px;
   border: none;
